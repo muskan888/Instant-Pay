@@ -94,11 +94,6 @@ This project is organized as a monorepo using Turborepo:
 - `packages/db`: Prisma schema and database utilities
 - Additional auxiliary services in their respective directories
 
-## 🔗 Links
-
-- [GitHub Repository](https://github.com/100xdevs-cohort-2/week-17-final-code)
-- [Issue Tracker](https://github.com/100xdevs-cohort-2/week-17-final-code/issues)
-- [Documentation](https://github.com/100xdevs-cohort-2/week-17-final-code/wiki)
 
 ## 🤝 Contributing
 
