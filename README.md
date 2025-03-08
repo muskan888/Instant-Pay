@@ -1,31 +1,31 @@
-# Instant-Pay
+# 💸 Instant-Pay
 
 A modern web application for digital wallet management and seamless money transfers using banking APIs.
 
-## Overview
+## 🌟 Overview
 
 Instant Pay allows users to add money to their digital wallet and make instant payments to other users. Built on a robust tech stack with a focus on security and user experience, this application provides real-time transaction capabilities in a responsive interface.
 
-## Features
+## ✨ Features
 
-- **Digital Wallet Management**: Add funds to your wallet using secure banking APIs
-- **Peer-to-Peer Transfers**: Send money instantly to other users
-- **Real-time Transaction Updates**: Track your payments and transfers as they happen
-- **Secure Authentication**: User authentication and authorization built-in
-- **Responsive Design**: Modern UI built with Tailwind CSS
+- **💰 Digital Wallet Management**: Add funds to your wallet using secure banking APIs
+- **👥 Peer-to-Peer Transfers**: Send money instantly to other users
+- **⚡ Real-time Transaction Updates**: Track your payments and transfers as they happen
+- **🔒 Secure Authentication**: User authentication and authorization built-in
+- **📱 Responsive Design**: Modern UI built with Tailwind CSS
 
-## Tech Stack
+## 🛠️ Tech Stack
 
-- **Frontend & Backend**: Next.js
-- **API Servers**: Express.js
-- **Database**: PostgreSQL
-- **ORM**: Prisma
-- **Styling**: Tailwind CSS
-- **Monorepo Management**: Turborepo
-- **Containerization**: Docker
-- **Language**: TypeScript
+- **🖥️ Frontend & Backend**: Next.js
+- **🚀 API Servers**: Express.js
+- **🗄️ Database**: PostgreSQL
+- **🔌 ORM**: Prisma
+- **🎨 Styling**: Tailwind CSS
+- **📦 Monorepo Management**: Turborepo
+- **🐳 Containerization**: Docker
+- **⌨️ Language**: TypeScript
 
-## Getting Started
+## 🚀 Getting Started
 
 ### Prerequisites
 
@@ -86,7 +86,7 @@ Use the following demo credentials:
 
 *Note: These are seed data credentials. See `seed.ts` for more demo accounts.*
 
-## Project Structure
+## 📂 Project Structure
 
 This project is organized as a monorepo using Turborepo:
 
@@ -94,10 +94,17 @@ This project is organized as a monorepo using Turborepo:
 - `packages/db`: Prisma schema and database utilities
 - Additional auxiliary services in their respective directories
 
-## Contributing
+## 🔗 Links
+
+- [GitHub Repository](https://github.com/100xdevs-cohort-2/week-17-final-code)
+- [Issue Tracker](https://github.com/100xdevs-cohort-2/week-17-final-code/issues)
+- [Documentation](https://github.com/100xdevs-cohort-2/week-17-final-code/wiki)
+
+## 🤝 Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## License
+## 📄 License
 
 This project is licensed under the [MIT License](LICENSE).
+
